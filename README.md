@@ -1,22 +1,24 @@
 👋 Hi, I’m Anish 
 
-👀 Interests:I’m passionate about AI, ML, Blockchain, Web3, and Competitive Programming.
+👀 Interests: I’m passionate about AI, ML, Blockchain, Web3, and Competitive Programming.
 
 🌱 Currently Learning:
 
-* C Programming
+* Java
 
 * Web Development
 
 * Data Structures and Algorithms (DSA)
 
-💞️ Looking to Collaborate On:Exciting AI/ML projects and innovative tech solutions that make an impact.
+* Python 
 
-📫 How to Reach Me:Feel free to drop a message here or connect via email!
+💞️ Looking to Collaborate On: Exciting AI/ML projects and innovative tech solutions that make an impact.
 
-😄 Pronouns:He/Him
+📫 How to Reach Me: Feel free to drop a message here or connect via email!
 
-⚡ Fun Fact:I’m a first-year engineering student, a meme enthusiast, and a tech lover who enjoys exploring the endless possibilities of technology! 🚀
+😄 Pronouns: He/Him
+
+⚡ Fun Fact: I’m a Second-year engineering student, a meme enthusiast, and a tech lover who enjoys exploring the endless possibilities of technology! 🚀
 
 <!---
 anishk19/anishk19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
