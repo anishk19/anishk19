@@ -18,8 +18,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun Fact: I’m a Second-year engineering student, a meme enthusiast, and a tech lover who enjoys exploring the endless possibilities of technology! 🚀
-
+⚡ Fun Fact: I’m diving into the tech world as a 2nd-year engineering student, turning bugs into features, and turning memes into smiles! 😎 🚀
 <!---
 anishk19/anishk19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
