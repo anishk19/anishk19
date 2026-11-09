@@ -1,26 +1,121 @@
-# 💫 About Me:
-👋 Hi, I’m Anish<br><br>👀 Interests: I’m passionate about AI, ML, Blockchain, Web3, and Competitive Programming.<br><br>🌱 Currently Learning:<br><br>Java<br><br>Web Development<br><br>Data Structures and Algorithms (DSA)<br><br>Python<br><br>💞️ Looking to Collaborate On: Exciting AI/ML projects and innovative tech solutions that make an impact.<br><br>📫 How to Reach Me: Feel free to drop a message here or connect via email!<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun Fact: I’m diving into the tech world as a 2nd-year engineering student, turning bugs into features, and turning memes into smiles! 😎 🚀
+<div align="center">
 
+  <!-- Header Banner: Capsule Render with Midnight, Electric Blue & Violet Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=220&section=header&text=ANISH%20KUMAR&fontSize=42&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=60" alt="Anish Kumar Banner" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anish_keshri_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-keshri/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anish_keshri_)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshri.anish1309@gmail.com)
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anishk19&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anishk19&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anishk19&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <!-- Animated Typing SVG -->
+  <a href="https://github.com/anishk19">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=480&height=45&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Building+with+JavaScript+and+React;Exploring+AI+and+emerging+technologies;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  </a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anishk19&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anishk19&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+**Anish Kumar**  
+*Aspiring Software Engineer | Full-Stack Developer*  
+*B.Tech Computer Engineering student at Marwadi University.*
+
+I am an engineering student passionate about software development, solving real-world problems, and crafting reliable, user-centric applications. My primary focus centers on full-stack web technologies, modern JavaScript ecosystems, and core engineering fundamentals. I enjoy turning project ideas into functional software, exploring AI/ML and blockchain concepts, and continuously learning new tools to improve code quality and design.
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,java,js,ts,python" alt="C, Java, JavaScript, TypeScript, Python" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" alt="HTML, CSS, React, Bootstrap, Tailwind CSS" /> |
+| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express.js, MongoDB, MySQL" /> |
+| **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman" /> |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **FooDLy** | Full-stack food delivery web application featuring user authentication via JWT, interactive menu browsing, cart management, and an admin dashboard for menu and order tracking. | `MongoDB` `Express.js` `React` `Node.js` | [View Repository](https://github.com/anishk19/FooDLy) |
+| **CompassAI** | Modern travel assistant web interface built to help users explore destinations and generate structured travel itineraries. | `React 19` `Vite` `Tailwind CSS` `JavaScript` | [View Repository](https://github.com/anishk19/CompassAI) |
+| **My Portfolio** | Personal developer portfolio website highlighting academic background, technical skills, and software projects with a responsive design. | `HTML5` `CSS3` `Tailwind CSS` `JavaScript` | [View Repository](https://github.com/anishk19/My-portfolio-) |
+| **AK Car Rental System** | Console-based car rental management system implemented using core Object-Oriented Programming (OOP) principles for booking, availability, and returns. | `Java` `OOP` `CLI` | [View Repository](https://github.com/anishk19/AK-Car-Rental-System-) |
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr valign="top">
+      <td align="center">
+        <a href="https://github.com/anishk19">
+          <img src="https://github-readme-stats.vercel.app/api?username=anishk19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&icon_color=38BDF8&count_private=true&include_all_commits=true" alt="Anish's GitHub Stats" width="410" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/anishk19">
+          <img src="https://streak-stats.demolab.com/?user=anishk19&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=38BDF8&currStreakLabel=6366F1" alt="Anish's GitHub Streak" width="410" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <a href="https://github.com/anishk19">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishk19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&count_private=true" alt="Top Languages" width="380" />
+  </a>
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- **Data Structures and Algorithms:** Strengthening core problem-solving efficiency and algorithmic thinking.
+- **Software Engineering Practices:** Writing maintainable, modular code and understanding architectural fundamentals.
+- **Blockchain Fundamentals:** Exploring decentralized networks, consensus mechanisms, and smart contract basics.
+- **AI/ML Fundamentals:** Studying core machine learning principles and practical model integration.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/anish-keshri/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anishk19" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:keshri.anish1309@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/anish_keshri_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/anish_keshri_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+</div>
+
+<br/>
+
+<!-- Footer: Animated Capsule Render with Closing Line -->
+<div align="center">
+  <p align="center"><i>Building. Learning. Improving. One commit at a time.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30&height=100&section=footer" alt="Footer Banner" width="100%" />
+</div>
