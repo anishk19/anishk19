@@ -35,16 +35,12 @@ I am a Computer Engineering student passionate about software development, solvi
 
 ## 🛠️ Technology Stack
 
-<div align="center">
-
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=c,java,js,ts,python" alt="C, Java, JavaScript, TypeScript, Python" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" alt="HTML, CSS, React, Bootstrap, Tailwind CSS" /> |
 | **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express.js, MongoDB, MySQL" /> |
 | **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman" /> |
-
-</div>
 
 ---
 
@@ -56,7 +52,7 @@ I am a Computer Engineering student passionate about software development, solvi
     <tr valign="top">
       <td align="center">
         <a href="https://github.com/anishk19">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anishk19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&icon_color=38BDF8&count_private=true&include_all_commits=true" alt="GitHub Stats for anishk19" width="410" />
+          <img src="https://github-readme-stats-pi-six.vercel.app/api?username=anishk19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&icon_color=38BDF8&count_private=true&include_all_commits=true" alt="GitHub Stats for anishk19" width="410" />
         </a>
       </td>
       <td align="center">
@@ -70,7 +66,7 @@ I am a Computer Engineering student passionate about software development, solvi
   <br/>
 
   <a href="https://github.com/anishk19">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anishk19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&count_private=true" alt="Top Languages for anishk19" width="380" />
+    <img src="https://github-readme-stats-pi-six.vercel.app/api/top-langs/?username=anishk19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=94A3B8&count_private=true" alt="Top Languages for anishk19" width="380" />
   </a>
 
 </div>
